@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sports Betting Website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on **Sports Betting Website**
 
