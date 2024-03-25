@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ermiyas Abiye</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Sports Betting Website**
+- 🔭 I’m currently working on **A language interpreter called Ahadu**
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **Sports Betting Website**
+- 👯 I’m looking to collaborate on **On my interpreter** when finished it enables to write a program with amharic.
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio-lemon.vercel.app/](https://my-personal-portfolio-lemon.vercel.app/)
 
-- 💬 Ask me about **React, NextJs**
+- 💬 Ask me about **React, NextJs, C, python**
 
 - 📫 How to reach me **ermiyasabiye1999@gmail.com**
 
