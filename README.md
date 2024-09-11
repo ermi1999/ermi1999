@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **On my interpreter** when finished it enables to write a program with amharic.
 
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio-lemon.vercel.app/](https://my-personal-portfolio-lemon.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ermiyas.vercel.app/](https://my-personal-portfolio-lemon.vercel.app/)
 
 - 💬 Ask me about **React, NextJs, C, python**
 
