@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **A language interpreter called Ahadu**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **ruby**
 
 - 👯 I’m looking to collaborate on **On my interpreter** when finished it enables to write a program with amharic.
 
-- 👨‍💻 All of my projects are available at [https://ermiyas.vercel.app/](https://my-personal-portfolio-lemon.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ermiyas.tech/](https://ermiyas.tech/)
 
 - 💬 Ask me about **React, NextJs, C, python**
 
